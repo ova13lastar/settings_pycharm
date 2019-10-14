@@ -1,0 +1,69 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="keys&#10;smart&#10;docstr&#10;spell&#10;proxy" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="file.chooser.recent.files" value="D:/Python_dev/gaia/src/gaia/gaia.py&#10;D:/Python_dev/gaia" />
+    <property name="file.gist.reindex.count" value="5117" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="2" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="INSERT_TYPE_DOCSTUB" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="D:\Python_dev\gaia\.venv\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="PythonDocumentationMap">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="prefix" value="PyQt4" />
+          <option name="urlPattern" value="http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/{class.name.lower}.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PySide" />
+          <option name="urlPattern" value="http://pyside.github.io/docs/pyside/{module.name.slashes}/{class.name}.html#{module.name}.{element.qname}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="gtk" />
+          <option name="urlPattern" value="http://library.gnome.org/devel/pygtk/stable/class-gtk{class.name.lower}.html#method-gtk{class.name.lower}--{function.name.dashes}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="wx" />
+          <option name="urlPattern" value="http://www.wxpython.org/docs/api/{module.name}.{class.name}-class.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="numpy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/numpy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="scipy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/scipy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="kivy" />
+          <option name="urlPattern" value="http://kivy.org/docs/api-{module.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PySide2" />
+          <option name="urlPattern" value="https://doc.qt.io/qtforpython/PySide2/{module.name.slashes}/{class.name}.html#{module.name}.{element.qname}" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+</application>
