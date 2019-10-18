@@ -1,0 +1,22 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Run 'pytest in test_gaia....'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'pytest in test_gaia....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'pytest in test_gaia.py'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Maj+F10'</ShortCut>
+          <Description>Run 'pytest in test_gaia.py'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
