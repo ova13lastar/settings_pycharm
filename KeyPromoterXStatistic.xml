@@ -129,14 +129,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Structure">
-        <Item>
-          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
-          <ShortCut>'Alt+7'</ShortCut>
-          <Description>Structure</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>Synchronize</IdeaActionID>
@@ -209,6 +201,14 @@
           <ShortCut>'Maj+F10'</ShortCut>
           <Description>Run 'tessi_desactivate'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
