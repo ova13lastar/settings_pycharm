@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -70,6 +70,14 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Maj+K'</ShortCut>
           <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Delete">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+Z' or 'Alt+Maj+Retour arrière'</ShortCut>
+          <Description>Redo Delete</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -159,6 +167,14 @@
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Delete Line">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Retour arrière'</ShortCut>
+          <Description>Undo Delete Line</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
