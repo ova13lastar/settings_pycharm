@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Replace...">
+        <Item>
+          <IdeaActionID>Replace</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Replace...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'tessi_desactivate'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
